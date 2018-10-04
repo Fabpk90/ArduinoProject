@@ -17,10 +17,9 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
+
 #include <time.h>
 
-int i = 0;
 // the setup function runs once when you press reset or power the board
 void setup() {
 
